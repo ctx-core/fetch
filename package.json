@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "6.1.63",
+	"version": "6.1.64",
 	"description": "ctx-core fetch",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.10.32",
+		"@ctx-core/dom": "^5.10.33",
 		"@ctx-core/env": "^8.2.39",
 		"@ctx-core/error": "^5.1.60",
 		"@ctx-core/fibonacci": "^3.1.10",
