@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "6.1.97",
+	"version": "6.1.98",
 	"description": "ctx-core fetch",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -30,15 +30,15 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.12.1",
-		"@ctx-core/env": "^8.3.13",
-		"@ctx-core/error": "^5.1.68",
-		"@ctx-core/fibonacci": "^3.1.14",
-		"@ctx-core/logger": "^3.1.12",
-		"@ctx-core/object": "^8.0.3",
-		"@ctx-core/package": "^3.1.42",
-		"@ctx-core/sleep": "^3.1.14",
-		"@ctx-core/version__app": "^7.1.18",
+		"@ctx-core/dom": "^5.12.2",
+		"@ctx-core/env": "^8.3.14",
+		"@ctx-core/error": "^5.1.69",
+		"@ctx-core/fibonacci": "^3.1.15",
+		"@ctx-core/logger": "^3.1.13",
+		"@ctx-core/object": "^8.0.4",
+		"@ctx-core/package": "^3.1.43",
+		"@ctx-core/sleep": "^3.1.15",
+		"@ctx-core/version__app": "^7.1.19",
 		"isomorphic-fetch": "^2.2.1",
 		"whatwg-fetch": "^3.0.0"
 	},
