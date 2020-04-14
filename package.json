@@ -30,13 +30,13 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.12.18",
+		"@ctx-core/dom": "^5.12.19",
 		"@ctx-core/env": "^8.3.21",
 		"@ctx-core/error": "^5.1.73",
 		"@ctx-core/fibonacci": "^3.1.15",
 		"@ctx-core/logger": "^3.1.14",
-		"@ctx-core/object": "^8.0.7",
-		"@ctx-core/package": "^3.1.47",
+		"@ctx-core/object": "^8.0.8",
+		"@ctx-core/package": "^3.1.48",
 		"@ctx-core/sleep": "^3.1.15",
 		"@ctx-core/version__app": "^7.1.32",
 		"isomorphic-fetch": "^2.2.1",
