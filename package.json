@@ -43,7 +43,7 @@
 		"whatwg-fetch": "^3.0.0"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.3"
+		"typescript": "^3.9.5"
 	},
 	"gitHead": "0d205fd410f8e3951013a2a75081a258e66e709d"
 }
