@@ -40,10 +40,10 @@
 		"@ctx-core/sleep": "^3.1.21",
 		"@ctx-core/version__app": "^7.1.49",
 		"isomorphic-fetch": "^2.2.1",
-		"whatwg-fetch": "^3.0.0"
+		"whatwg-fetch": "^3.1.0"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.5"
+		"typescript": "^3.9.6"
 	},
 	"gitHead": "0d205fd410f8e3951013a2a75081a258e66e709d"
 }
