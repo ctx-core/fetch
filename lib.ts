@@ -7,8 +7,6 @@ import { _number__fibonacci } from '@ctx-core/fibonacci'
 import { _no__dom } from '@ctx-core/dom'
 import { throw__error } from '@ctx-core/error'
 const fetch = _no__dom() ? require('isomorphic-fetch') : window.fetch
-import { log } from '@ctx-core/logger'
-const logPrefix = '@ctx-core/fetch'
 export { fetch }
 export const Headers = _no__dom() ? require('isomorphic-fetch').Headers : window.Headers
 export const Request = _no__dom() ? require('isomorphic-fetch').Request : window.Request
@@ -20,7 +18,6 @@ export function _method__fetch(ctx__fetch):string {
 	return (ctx__fetch.method || 'GET').toUpperCase()
 }
 export async function throw__response__fetch(response) {
-	log(`${logPrefix}|throw__response__fetch`)
 	const error_message = await response.text()
 	throw__error({
 		status__http: response.status,
