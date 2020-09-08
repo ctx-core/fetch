@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "6.1.196",
+	"version": "6.1.197",
 	"description": "ctx-core fetch",
 	"main": "./index.js",
 	"module": "./index.js",
