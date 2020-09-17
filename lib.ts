@@ -5,7 +5,7 @@
 import { sleep } from '@ctx-core/sleep'
 import { _number__fibonacci } from '@ctx-core/fibonacci'
 import { _no__dom } from '@ctx-core/dom'
-import { throw__error } from '@ctx-core/error'
+import { error_ctx_type, throw_error } from '@ctx-core/error'
 const fetch = _no__dom() ? require('isomorphic-fetch') : window.fetch
 export { fetch }
 export const Headers = _no__dom() ? require('isomorphic-fetch').Headers : window.Headers
@@ -19,10 +19,10 @@ export function _method__fetch(ctx__fetch):string {
 }
 export async function throw__response__fetch(response) {
 	const error_message = await response.text()
-	throw__error({
-		status__http: response.status,
+	throw_error({
+		http_status: response.status,
 		error_message,
-	})
+	} as error_ctx_type)
 }
 export async function waitfor__backoff__fibonacci(fn, delay = 500) {
 	let response
