@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/fetch",
-  "version": "6.1.204",
+  "version": "6.1.205",
   "description": "ctx-core fetch",
   "keywords": [
     "ctx-core",
@@ -22,7 +22,7 @@
   "scripts": {
     "build": "npm run clean && npm run compile",
     "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "tsc -b",
+    "compile": "./node_modules/.bin/tsc -b",
     "exec": "$@",
     "prepublishOnly": "npm run compile"
   },
