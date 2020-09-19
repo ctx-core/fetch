@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/fetch",
-  "version": "6.1.205",
+  "version": "7.0.0",
   "description": "ctx-core fetch",
   "keywords": [
     "ctx-core",
@@ -39,7 +39,7 @@
     "whatwg-fetch": "^3.4.1"
   },
   "devDependencies": {
-    "typescript": "^4.0.2"
+    "typescript": "^4.0.3"
   },
   "publishConfig": {
     "access": "public"
