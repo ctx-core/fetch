@@ -1,48 +1,47 @@
 {
-  "name": "@ctx-core/fetch",
-  "version": "7.0.3",
-  "description": "ctx-core fetch",
-  "keywords": [
-    "ctx-core",
-    "fetch"
-  ],
-  "homepage": "https://github.com/ctx-core/fetch#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/fetch/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/fetch/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "dependencies": {
-    "@ctx-core/dom": "workspace:*",
-    "@ctx-core/env": "workspace:*",
-    "@ctx-core/error": "workspace:*",
-    "@ctx-core/fibonacci": "workspace:*",
-    "@ctx-core/object": "workspace:*",
-    "@ctx-core/package": "workspace:*",
-    "@ctx-core/sleep": "workspace:*",
-    "@ctx-core/version__app": "workspace:*",
-    "isomorphic-fetch": "^2.2.1",
-    "whatwg-fetch": "^3.4.1"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "e3de33a42a3983bbe8a138ba3a9ba0548fceb50f"
+	"name": "@ctx-core/fetch",
+	"version": "7.0.3",
+	"description": "ctx-core fetch",
+	"keywords": [
+		"ctx-core",
+		"fetch"
+	],
+	"homepage": "https://github.com/ctx-core/fetch#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/fetch/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/fetch/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"dependencies": {
+		"@ctx-core/dom": "workspace:*",
+		"@ctx-core/env": "workspace:*",
+		"@ctx-core/error": "workspace:*",
+		"@ctx-core/fibonacci": "workspace:*",
+		"@ctx-core/object": "workspace:*",
+		"@ctx-core/package": "workspace:*",
+		"@ctx-core/sleep": "workspace:*",
+		"@ctx-core/version__app": "workspace:*",
+		"isomorphic-fetch": "^2.2.1",
+		"whatwg-fetch": "^3.4.1"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
