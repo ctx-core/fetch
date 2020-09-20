@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 7.0.6
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/fibonacci@4.0.2
+  - @ctx-core/version\_\_app@8.0.4
+
 ## 7.0.5
 
 ### Patch Changes
