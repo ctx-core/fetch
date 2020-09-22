@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 7.0.18
+
+### Patch Changes
+
+- @ctx-core/package@5.0.9
+
 ## 7.0.17
 
 ### Patch Changes

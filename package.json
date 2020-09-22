@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "7.0.17",
+	"version": "7.0.18",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -32,7 +32,7 @@
 		"@ctx-core/error": "workspace:^7.0.4",
 		"@ctx-core/fibonacci": "workspace:^4.0.2",
 		"@ctx-core/object": "workspace:^12.0.4",
-		"@ctx-core/package": "workspace:^5.0.8",
+		"@ctx-core/package": "workspace:^5.0.9",
 		"@ctx-core/sleep": "workspace:^5.0.0",
 		"@ctx-core/version__app": "workspace:^8.0.9",
 		"isomorphic-fetch": "^2.2.1",
