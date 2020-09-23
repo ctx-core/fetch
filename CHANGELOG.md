@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 7.0.21
+
+### Patch Changes
+
+- isomorphic-fetch: ^2.2.1 -> ^3.0.0
+
 ## 7.0.20
 
 ### Patch Changes

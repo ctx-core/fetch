@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "7.0.20",
+	"version": "7.0.21",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"@ctx-core/package": "workspace:^5.0.10",
 		"@ctx-core/sleep": "workspace:^5.0.0",
 		"@ctx-core/version__app": "workspace:^8.0.10",
-		"isomorphic-fetch": "^2.2.1",
+		"isomorphic-fetch": "^3.0.0",
 		"whatwg-fetch": "^3.4.1"
 	},
 	"devDependencies": {
