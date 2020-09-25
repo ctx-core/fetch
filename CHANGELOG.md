@@ -1,5 +1,14 @@
 # @ctx-core/fetch
 
+## 7.0.38
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.15
+  - @ctx-core/version\_\_app@8.0.19
+  - @ctx-core/dom@7.0.32
+
 ## 7.0.37
 
 ### Patch Changes
