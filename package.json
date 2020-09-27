@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "7.0.39",
+	"version": "7.0.40",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^7.0.33",
+		"@ctx-core/dom": "workspace:^7.0.34",
 		"@ctx-core/env": "workspace:^9.0.16",
 		"@ctx-core/error": "workspace:^7.0.13",
 		"@ctx-core/fibonacci": "workspace:^4.0.2",
