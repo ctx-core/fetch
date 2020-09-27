@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 7.0.43
+
+### Patch Changes
+
+- @ctx-core/dom@7.0.37
+
 ## 7.0.42
 
 ### Patch Changes
