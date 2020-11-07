@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 7.0.66
+
+### Patch Changes
+
+- whatwg-fetch: ^3.4.1 -> ^3.5.0
+
 ## 7.0.65
 
 ### Patch Changes
