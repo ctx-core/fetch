@@ -1,5 +1,12 @@
 # @ctx-core/fetch
 
+## 7.0.69
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/package@5.0.24
+
 ## 7.0.68
 
 ### Patch Changes
