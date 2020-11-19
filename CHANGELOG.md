@@ -1,5 +1,21 @@
 # @ctx-core/fetch
 
+## 7.0.72
+
+### Patch Changes
+
+- typescript: ^4.0.5 -> ^4.1.2
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/version\_\_app@8.0.41
+  - @ctx-core/dom@7.1.8
+  - @ctx-core/env@9.0.29
+  - @ctx-core/error@7.0.16
+  - @ctx-core/fibonacci@4.0.4
+  - @ctx-core/object@13.0.2
+  - @ctx-core/package@5.0.26
+  - @ctx-core/sleep@5.0.3
+
 ## 7.0.71
 
 ### Patch Changes
