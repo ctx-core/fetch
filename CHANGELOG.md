@@ -1,5 +1,17 @@
 # @ctx-core/fetch
 
+## 7.1.0
+
+### Minor Changes
+
+- waitfor_fibonacci_backoff as waitfor**backoff**fibonacci,waitfor_fibonacci_backoff as \_waitfor**ratelimit**backoff\_\_fibonacci
+- throw_fetch_response as throw**response**fetch
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/fibonacci@4.1.0
+
 ## 7.0.97
 
 ### Patch Changes
