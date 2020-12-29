@@ -1,5 +1,17 @@
 # @ctx-core/fetch
 
+## 7.1.3
+
+### Patch Changes
+
+- fix: export waitfor_fibonacci_backoff
+  - @ctx-core/dom@7.1.29
+  - @ctx-core/env@9.1.16
+  - @ctx-core/object@15.0.13
+  - @ctx-core/package@5.0.44
+  - @ctx-core/version\_\_app@8.1.23
+  - @ctx-core/error@7.1.15
+
 ## 7.1.2
 
 ### Patch Changes
