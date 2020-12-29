@@ -7,3 +7,4 @@ export * from './package';
 export * from './Request';
 export * from './Response';
 export * from './throw_fetch_response';
+export * from './waitfor_fibonacci_backoff';
