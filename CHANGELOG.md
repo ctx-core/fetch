@@ -1,5 +1,16 @@
 # @ctx-core/fetch
 
+## 7.1.5
+
+### Patch Changes
+
+- @ctx-core/dom@7.1.30
+- @ctx-core/env@9.1.17
+- @ctx-core/object@15.0.14
+- @ctx-core/package@5.0.45
+- @ctx-core/version\_\_app@8.1.25
+- @ctx-core/error@7.1.16
+
 ## 7.1.4
 
 ### Patch Changes
