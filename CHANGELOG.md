@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 7.1.14
+
+### Patch Changes
+
+- @ctx-core/version\_\_app@8.1.33
+
 ## 7.1.13
 
 ### Patch Changes
