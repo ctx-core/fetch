@@ -1,5 +1,12 @@
 # @ctx-core/fetch
 
+## 7.1.13
+
+### Patch Changes
+
+- remove @ctx-core/env dependency
+  - @ctx-core/dom@7.1.37
+
 ## 7.1.12
 
 ### Patch Changes
