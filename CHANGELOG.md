@@ -1,5 +1,12 @@
 # @ctx-core/fetch
 
+## 7.1.17
+
+### Patch Changes
+
+- @ctx-core/dom@7.1.39
+- @ctx-core/version\_\_app@8.1.36
+
 ## 7.1.16
 
 ### Patch Changes
