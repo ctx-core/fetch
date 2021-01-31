@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "7.1.32",
+	"version": "8.0.0",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -16,9 +16,9 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
+	"main": "./src/index.js",
+	"module": "./src/index.js",
+	"types": "./src/index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -27,13 +27,13 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^7.1.52",
-		"@ctx-core/error": "workspace:^7.1.25",
-		"@ctx-core/fibonacci": "workspace:^4.1.0",
-		"@ctx-core/object": "workspace:^16.1.1",
-		"@ctx-core/package": "workspace:^5.0.56",
-		"@ctx-core/sleep": "workspace:^5.0.5",
-		"@ctx-core/version__app": "workspace:^8.1.51",
+		"@ctx-core/dom": "workspace:^8.0.0",
+		"@ctx-core/error": "workspace:^8.0.0",
+		"@ctx-core/fibonacci": "workspace:^5.0.0",
+		"@ctx-core/object": "workspace:^17.0.0",
+		"@ctx-core/package": "workspace:^6.0.0",
+		"@ctx-core/sleep": "workspace:^6.0.0",
+		"@ctx-core/version__app": "workspace:^9.0.0",
 		"isomorphic-fetch": "^3.0.0",
 		"whatwg-fetch": "^3.5.0"
 	},

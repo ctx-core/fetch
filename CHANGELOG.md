@@ -1,5 +1,22 @@
 # @ctx-core/fetch
 
+## 8.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.0.0
+  - @ctx-core/error@8.0.0
+  - @ctx-core/fibonacci@5.0.0
+  - @ctx-core/object@17.0.0
+  - @ctx-core/package@6.0.0
+  - @ctx-core/sleep@6.0.0
+  - @ctx-core/version\_\_app@9.0.0
+
 ## 7.1.32
 
 ### Patch Changes
