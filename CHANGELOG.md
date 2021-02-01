@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 8.0.2
+
+### Patch Changes
+
+- @ctx-core/dom@8.0.2
+
 ## 8.0.1
 
 ### Patch Changes
