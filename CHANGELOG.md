@@ -1,5 +1,15 @@
 # @ctx-core/fetch
 
+## 8.0.4
+
+### Patch Changes
+
+- @ctx-core/dom@8.1.1
+- @ctx-core/object@17.0.1
+- @ctx-core/package@6.0.2
+- @ctx-core/version\_\_app@9.0.2
+- @ctx-core/error@8.0.1
+
 ## 8.0.3
 
 ### Patch Changes
