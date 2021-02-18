@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 8.0.22
+
+### Patch Changes
+
+- whatwg-fetch: ^3.5.0 -> ^3.6.1
+- Updated dependencies [undefined]
+  - @ctx-core/version\_\_app@9.0.19
+
 ## 8.0.21
 
 ### Patch Changes
