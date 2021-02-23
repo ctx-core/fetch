@@ -1,1 +1,1 @@
-export declare function _headers(init?: HeadersInit): Record<string, string> | Headers | string[][] | undefined;
+export declare function _headers(init?: HeadersInit): HeadersInit | undefined;
