@@ -35,7 +35,7 @@
 		"@ctx-core/sleep": "workspace:^6.0.4",
 		"@ctx-core/version__app": "workspace:^9.0.28",
 		"isomorphic-fetch": "^3.0.0",
-		"whatwg-fetch": "^3.6.1"
+		"whatwg-fetch": "^3.6.2"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.2"
