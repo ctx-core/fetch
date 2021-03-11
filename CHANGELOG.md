@@ -1,5 +1,12 @@
 # @ctx-core/fetch
 
+## 8.0.43
+
+### Patch Changes
+
+- Updated dependencies [08cf9d28f]
+  - @ctx-core/version\_\_app@9.0.39
+
 ## 8.0.42
 
 ### Patch Changes
