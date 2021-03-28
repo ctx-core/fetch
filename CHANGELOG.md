@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 8.0.47
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.2.13
+  - @ctx-core/error@8.0.19
+  - @ctx-core/fibonacci@5.0.6
+  - @ctx-core/object@17.4.1
+  - @ctx-core/package@6.1.14
+  - @ctx-core/sleep@6.0.6
+  - @ctx-core/version\_\_app@9.0.43
+
 ## 8.0.46
 
 ### Patch Changes
