@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 8.0.48
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.2.14
+  - @ctx-core/error@8.0.20
+  - @ctx-core/fibonacci@5.0.7
+  - @ctx-core/object@17.4.2
+  - @ctx-core/package@6.1.15
+  - @ctx-core/sleep@6.0.7
+  - @ctx-core/version\_\_app@9.0.44
+
 ## 8.0.47
 
 ### Patch Changes
