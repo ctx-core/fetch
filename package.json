@@ -33,7 +33,7 @@
 		"@ctx-core/object": "workspace:^17.5.6",
 		"@ctx-core/package": "workspace:^6.1.19",
 		"@ctx-core/sleep": "workspace:^6.0.10",
-		"@ctx-core/version__app": "workspace:^9.0.53",
+		"@ctx-core/version__app": "workspace:^9.0.54",
 		"isomorphic-fetch": "^3.0.0",
 		"whatwg-fetch": "^3.6.2"
 	},
