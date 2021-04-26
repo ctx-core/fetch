@@ -27,13 +27,13 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.2.33",
+		"@ctx-core/dom": "workspace:^8.2.34",
 		"@ctx-core/error": "workspace:^8.0.29",
 		"@ctx-core/fibonacci": "workspace:^5.0.10",
 		"@ctx-core/object": "workspace:^17.5.10",
 		"@ctx-core/package": "workspace:^6.1.20",
 		"@ctx-core/sleep": "workspace:^6.0.10",
-		"@ctx-core/version__app": "workspace:^9.0.63",
+		"@ctx-core/version__app": "workspace:^9.0.64",
 		"isomorphic-fetch": "^3.0.0",
 		"whatwg-fetch": "^3.6.2"
 	},
