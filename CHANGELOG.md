@@ -1,5 +1,22 @@
 # @ctx-core/fetch
 
+## 8.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.3.0
+  - @ctx-core/error@8.1.0
+  - @ctx-core/fibonacci@5.1.0
+  - @ctx-core/object@17.6.0
+  - @ctx-core/package@6.2.0
+  - @ctx-core/sleep@6.1.0
+  - @ctx-core/version\_\_app@9.1.0
+
 ## 8.0.70
 
 ### Patch Changes
