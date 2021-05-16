@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 8.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.3.1
+  - @ctx-core/error@8.1.1
+  - @ctx-core/fibonacci@5.1.1
+  - @ctx-core/object@17.6.1
+  - @ctx-core/package@6.2.1
+  - @ctx-core/sleep@6.1.1
+  - @ctx-core/version\_\_app@9.1.1
+
 ## 8.1.0
 
 ### Minor Changes
