@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 8.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.3.2
+  - @ctx-core/error@8.1.2
+  - @ctx-core/fibonacci@5.1.2
+  - @ctx-core/object@17.6.2
+  - @ctx-core/package@6.2.2
+  - @ctx-core/sleep@6.1.2
+  - @ctx-core/version\_\_app@9.1.2
+
 ## 8.1.1
 
 ### Patch Changes
