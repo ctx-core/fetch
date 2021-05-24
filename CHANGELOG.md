@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 8.1.11
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.3.10
+  - @ctx-core/error@8.1.11
+  - @ctx-core/fibonacci@5.1.3
+  - @ctx-core/object@18.0.6
+  - @ctx-core/package@6.2.3
+  - @ctx-core/sleep@6.1.3
+  - @ctx-core/version\_\_app@9.2.3
+
 ## 8.1.10
 
 ### Patch Changes
