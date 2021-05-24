@@ -1,5 +1,22 @@
 # @ctx-core/fetch
 
+## 8.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.4.0
+  - @ctx-core/error@8.2.0
+  - @ctx-core/fibonacci@5.2.0
+  - @ctx-core/object@18.1.0
+  - @ctx-core/package@6.3.0
+  - @ctx-core/sleep@6.2.0
+  - @ctx-core/version\_\_app@9.3.0
+
 ## 8.1.11
 
 ### Patch Changes
