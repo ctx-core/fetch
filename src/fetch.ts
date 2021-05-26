@@ -1,3 +1,3 @@
-import { no__dom } from '@ctx-core/dom'
-const fetch = no__dom ? require('isomorphic-fetch') : window.fetch
+import { no_dom } from '@ctx-core/dom'
+const fetch = no_dom ? require('isomorphic-fetch') : window.fetch
 export { fetch }
