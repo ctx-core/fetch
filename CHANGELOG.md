@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 8.4.1
+
+### Patch Changes
+
+- fetch: fetch_T
+
 ## 8.4.0
 
 ### Minor Changes
