@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 8.4.2
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.5.1
+  - @ctx-core/error@8.3.1
+  - @ctx-core/fibonacci@5.3.1
+  - @ctx-core/object@18.2.1
+  - @ctx-core/package@6.4.1
+  - @ctx-core/sleep@6.3.1
+  - @ctx-core/version\_\_app@9.4.1
+
 ## 8.4.1
 
 ### Patch Changes
