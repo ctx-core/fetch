@@ -1,5 +1,22 @@
 # @ctx-core/fetch
 
+## 9.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/dom@9.0.0
+  - @ctx-core/error@9.0.0
+  - @ctx-core/fibonacci@6.0.0
+  - @ctx-core/object@19.0.0
+  - @ctx-core/package@7.0.0
+
 ## 8.4.2
 
 ### Patch Changes
