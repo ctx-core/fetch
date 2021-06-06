@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 9.0.5
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@10.0.23
+  - @ctx-core/dom@9.0.9
+  - @ctx-core/error@9.0.3
+  - @ctx-core/fibonacci@6.0.1
+  - @ctx-core/object@19.1.2
+  - @ctx-core/package@7.0.1
+  - @ctx-core/sleep@6.3.2
+
 ## 9.0.4
 
 ### Patch Changes
