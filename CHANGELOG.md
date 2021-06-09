@@ -1,5 +1,15 @@
 # @ctx-core/fetch
 
+## 9.0.10
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@10.0.31
+  - @ctx-core/dom@9.0.13
+  - @ctx-core/error@9.0.7
+
 ## 9.0.9
 
 ### Patch Changes
