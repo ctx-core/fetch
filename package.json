@@ -32,7 +32,7 @@
 		"@ctx-core/error": "workspace:^9.0.7",
 		"@ctx-core/fibonacci": "workspace:^6.0.2",
 		"@ctx-core/object": "workspace:^19.3.0",
-		"@ctx-core/package": "workspace:^7.0.2",
+		"@ctx-core/package": "workspace:^7.0.3",
 		"@ctx-core/sleep": "workspace:^6.3.3",
 		"isomorphic-fetch": "^3.0.0",
 		"whatwg-fetch": "^3.6.2"
