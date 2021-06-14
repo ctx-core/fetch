@@ -1,5 +1,22 @@
 # @ctx-core/fetch
 
+## 10.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@11.0.0
+  - @ctx-core/dom@10.0.0
+  - @ctx-core/error@10.0.0
+  - @ctx-core/fibonacci@7.0.0
+  - @ctx-core/object@20.0.0
+  - @ctx-core/package@8.0.0
+  - @ctx-core/sleep@7.0.0
+
 ## 9.0.12
 
 ### Patch Changes
