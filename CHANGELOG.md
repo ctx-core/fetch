@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 10.0.11
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@11.0.13
+  - @ctx-core/dom@10.0.7
+  - @ctx-core/error@10.0.6
+  - @ctx-core/fibonacci@7.0.6
+  - @ctx-core/object@20.0.7
+  - @ctx-core/package@8.0.6
+  - @ctx-core/sleep@7.0.6
+
 ## 10.0.10
 
 ### Patch Changes
