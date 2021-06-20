@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 10.0.9
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@11.0.11
+  - @ctx-core/dom@10.0.5
+  - @ctx-core/error@10.0.4
+  - @ctx-core/fibonacci@7.0.4
+  - @ctx-core/object@20.0.5
+  - @ctx-core/package@8.0.4
+  - @ctx-core/sleep@7.0.4
+
 ## 10.0.8
 
 ### Patch Changes
