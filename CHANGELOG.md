@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 10.0.10
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@11.0.12
+  - @ctx-core/dom@10.0.6
+  - @ctx-core/error@10.0.5
+  - @ctx-core/fibonacci@7.0.5
+  - @ctx-core/object@20.0.6
+  - @ctx-core/package@8.0.5
+  - @ctx-core/sleep@7.0.5
+
 ## 10.0.9
 
 ### Patch Changes
