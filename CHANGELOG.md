@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 10.0.14
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@11.0.17
+  - @ctx-core/dom@10.0.10
+  - @ctx-core/error@10.1.1
+  - @ctx-core/fibonacci@7.0.8
+  - @ctx-core/object@20.1.1
+  - @ctx-core/package@8.0.8
+  - @ctx-core/sleep@7.0.8
+
 ## 10.0.13
 
 ### Patch Changes
