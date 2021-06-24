@@ -1,5 +1,14 @@
 # @ctx-core/fetch
 
+## 10.0.13
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@11.0.16
+  - @ctx-core/dom@10.0.9
+
 ## 10.0.12
 
 ### Patch Changes
