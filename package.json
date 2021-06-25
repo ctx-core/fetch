@@ -28,11 +28,11 @@
 	},
 	"dependencies": {
 		"@ctx-core/app_version": "workspace:^11.0.20",
-		"@ctx-core/dom": "workspace:^10.0.13",
+		"@ctx-core/dom": "workspace:^10.0.14",
 		"@ctx-core/error": "workspace:^10.1.4",
 		"@ctx-core/fibonacci": "workspace:^7.0.8",
-		"@ctx-core/object": "workspace:^20.2.0",
-		"@ctx-core/package": "workspace:^8.0.9",
+		"@ctx-core/object": "workspace:^20.2.1",
+		"@ctx-core/package": "workspace:^8.0.10",
 		"@ctx-core/sleep": "workspace:^7.0.8",
 		"isomorphic-fetch": "^3.0.0",
 		"whatwg-fetch": "^3.6.2"
