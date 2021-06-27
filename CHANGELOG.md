@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 10.0.18
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@11.0.21
+  - @ctx-core/dom@10.0.15
+  - @ctx-core/error@10.1.5
+  - @ctx-core/fibonacci@7.0.9
+  - @ctx-core/object@20.2.2
+  - @ctx-core/package@8.0.11
+  - @ctx-core/sleep@7.0.9
+
 ## 10.0.17
 
 ### Patch Changes
