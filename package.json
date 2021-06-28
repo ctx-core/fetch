@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^11.0.23",
+		"@ctx-core/app_version": "workspace:^11.0.24",
 		"@ctx-core/dom": "workspace:^10.0.15",
 		"@ctx-core/error": "workspace:^10.1.5",
 		"@ctx-core/fibonacci": "workspace:^7.0.9",
