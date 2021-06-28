@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "10.0.19",
+	"version": "10.0.20",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -27,12 +27,12 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^11.0.22",
+		"@ctx-core/app_version": "workspace:^11.0.23",
 		"@ctx-core/dom": "workspace:^10.0.15",
 		"@ctx-core/error": "workspace:^10.1.5",
 		"@ctx-core/fibonacci": "workspace:^7.0.9",
 		"@ctx-core/object": "workspace:^20.2.2",
-		"@ctx-core/package": "workspace:^8.0.13",
+		"@ctx-core/package": "workspace:^8.0.14",
 		"@ctx-core/sleep": "workspace:^7.0.9",
 		"isomorphic-fetch": "^3.0.0",
 		"whatwg-fetch": "^3.6.2"
