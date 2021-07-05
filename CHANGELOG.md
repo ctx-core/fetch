@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 10.0.30
+
+### Patch Changes
+
+- version bump
+
 ## 10.0.29
 
 ### Patch Changes
