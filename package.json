@@ -28,10 +28,10 @@
 	},
 	"dependencies": {
 		"@ctx-core/app_version": "workspace:^11.0.28",
-		"@ctx-core/dom": "workspace:^10.0.20",
+		"@ctx-core/dom": "workspace:^10.0.21",
 		"@ctx-core/error": "workspace:^10.1.6",
 		"@ctx-core/fibonacci": "workspace:^7.0.10",
-		"@ctx-core/object": "workspace:^20.2.4",
+		"@ctx-core/object": "workspace:^20.2.5",
 		"@ctx-core/package": "workspace:^8.0.15",
 		"@ctx-core/sleep": "workspace:^7.0.10",
 		"isomorphic-fetch": "^3.0.0",
