@@ -31,7 +31,7 @@
 		"@ctx-core/dom": "workspace:^10.0.26",
 		"@ctx-core/error": "workspace:^10.1.9",
 		"@ctx-core/fibonacci": "workspace:^7.0.10",
-		"@ctx-core/object": "workspace:^20.4.2",
+		"@ctx-core/object": "workspace:^20.5.0",
 		"@ctx-core/package": "workspace:^8.0.16",
 		"@ctx-core/sleep": "workspace:^7.0.10",
 		"isomorphic-fetch": "^3.0.0",
