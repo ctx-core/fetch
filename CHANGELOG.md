@@ -1,5 +1,22 @@
 # @ctx-core/fetch
 
+## 11.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@12.0.0
+  - @ctx-core/dom@11.0.0
+  - @ctx-core/error@11.0.0
+  - @ctx-core/fibonacci@8.0.0
+  - @ctx-core/object@21.0.0
+  - @ctx-core/package@9.0.0
+  - @ctx-core/sleep@8.0.0
+
 ## 10.0.42
 
 ### Patch Changes

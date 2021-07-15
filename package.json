@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "10.0.42",
+	"version": "11.0.0",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
+	"browser": "./dist/index.browser.js",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
@@ -27,15 +28,14 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^11.0.38",
-		"@ctx-core/dom": "workspace:^10.0.27",
-		"@ctx-core/error": "workspace:^10.1.10",
-		"@ctx-core/fibonacci": "workspace:^7.0.10",
-		"@ctx-core/object": "workspace:^20.5.0",
-		"@ctx-core/package": "workspace:^8.0.16",
-		"@ctx-core/sleep": "workspace:^7.0.10",
-		"isomorphic-fetch": "^3.0.0",
-		"whatwg-fetch": "^3.6.2"
+		"@ctx-core/app_version": "workspace:^12.0.0",
+		"@ctx-core/dom": "workspace:^11.0.0",
+		"@ctx-core/error": "workspace:^11.0.0",
+		"@ctx-core/fibonacci": "workspace:^8.0.0",
+		"@ctx-core/object": "workspace:^21.0.0",
+		"@ctx-core/package": "workspace:^9.0.0",
+		"@ctx-core/sleep": "workspace:^8.0.0",
+		"node-fetch": "^2.6.1"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.5"
