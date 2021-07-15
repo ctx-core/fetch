@@ -1,7 +1,5 @@
 export * from './fetch_method_.js'
-export * from './FETCH_URL_.js'
 export * from './headers_.js'
-export * from './FETCH_URL.js'
 export * from './fetch.js'
 export * from './fetch_T.js'
 export * from './Headers.js'
