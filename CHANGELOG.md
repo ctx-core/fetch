@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.11
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@12.0.10
+  - @ctx-core/dom@11.0.10
+  - @ctx-core/error@11.0.9
+  - @ctx-core/fibonacci@8.0.8
+  - @ctx-core/object@21.0.8
+  - @ctx-core/package@9.0.9
+  - @ctx-core/sleep@8.0.7
+
 ## 11.0.10
 
 ### Patch Changes
