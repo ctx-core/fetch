@@ -1,5 +1,33 @@
 # @ctx-core/fetch
 
+## 11.0.14
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@12.0.13
+  - @ctx-core/dom@11.0.12
+  - @ctx-core/error@11.0.11
+  - @ctx-core/fibonacci@8.0.10
+  - @ctx-core/object@21.0.10
+  - @ctx-core/package@9.0.11
+  - @ctx-core/sleep@8.0.9
+
+## 11.0.13
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@12.0.12
+  - @ctx-core/dom@11.0.11
+  - @ctx-core/error@11.0.10
+  - @ctx-core/fibonacci@8.0.9
+  - @ctx-core/object@21.0.9
+  - @ctx-core/package@9.0.10
+  - @ctx-core/sleep@8.0.8
+
 ## 11.0.12
 
 ### Patch Changes
