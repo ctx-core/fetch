@@ -1,5 +1,33 @@
 # @ctx-core/fetch
 
+## 11.0.8
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@12.0.7
+  - @ctx-core/dom@11.0.7
+  - @ctx-core/error@11.0.6
+  - @ctx-core/fibonacci@8.0.5
+  - @ctx-core/object@21.0.5
+  - @ctx-core/package@9.0.6
+  - @ctx-core/sleep@8.0.4
+
+## 11.0.7
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@12.0.6
+  - @ctx-core/dom@11.0.6
+  - @ctx-core/error@11.0.5
+  - @ctx-core/fibonacci@8.0.4
+  - @ctx-core/object@21.0.4
+  - @ctx-core/package@9.0.5
+  - @ctx-core/sleep@8.0.4
+
 ## 11.0.6
 
 ### Patch Changes
