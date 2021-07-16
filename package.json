@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.14",
+	"version": "11.0.15",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -20,10 +20,6 @@
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"exports": {
-		"require": "./dist/index.cjs",
-		"import": "./dist/index.js"
-	},
 	"browser": "./dist/index.browser.js",
 	"scripts": {
 		"build": "npm run clean && npm run copy-mjs && npm run compile",

@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 11.0.15
+
+### Patch Changes
+
+- - "exports": using main|module|types|browser
+
 ## 11.0.14
 
 ### Patch Changes
