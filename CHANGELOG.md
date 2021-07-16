@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.6
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/app_version@12.0.4
+  - @ctx-core/dom@11.0.4
+  - @ctx-core/error@11.0.4
+  - @ctx-core/fibonacci@8.0.3
+  - @ctx-core/object@21.0.3
+  - @ctx-core/package@9.0.4
+  - @ctx-core/sleep@8.0.3
+
 ## 11.0.5
 
 ### Patch Changes
