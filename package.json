@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.51",
+	"version": "11.0.52",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -30,18 +30,18 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^12.0.48",
-		"@ctx-core/dom": "workspace:^11.0.20",
-		"@ctx-core/error": "workspace:^11.0.14",
-		"@ctx-core/fibonacci": "workspace:^8.0.12",
-		"@ctx-core/object": "workspace:^21.0.16",
-		"@ctx-core/package": "workspace:^9.0.14",
-		"@ctx-core/sleep": "workspace:^8.0.11",
+		"@ctx-core/app_version": "workspace:^12.0.49",
+		"@ctx-core/dom": "workspace:^11.0.21",
+		"@ctx-core/error": "workspace:^11.0.15",
+		"@ctx-core/fibonacci": "workspace:^8.0.13",
+		"@ctx-core/object": "workspace:^21.0.17",
+		"@ctx-core/package": "workspace:^9.0.15",
+		"@ctx-core/sleep": "workspace:^8.0.12",
 		"esm": "^3.2.25",
 		"node-fetch": "next"
 	},
 	"devDependencies": {
-		"typescript": "^4.3.5"
+		"typescript": "^4.4.2"
 	},
 	"publishConfig": {
 		"access": "public",
