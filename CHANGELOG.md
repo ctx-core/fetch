@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 11.0.62
+
+### Patch Changes
+
+- update dependencies
+
 ## 11.0.61
 
 ### Patch Changes
