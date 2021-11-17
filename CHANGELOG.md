@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 11.0.82
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/app_version@13.0.0
+
 ## 11.0.81
 
 ### Patch Changes
