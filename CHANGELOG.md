@@ -1,5 +1,38 @@
 # @ctx-core/fetch
 
+## 11.0.85
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/app_version@13.0.3
+  - @ctx-core/package@9.1.4
+  - @ctx-core/dom@11.0.34
+  - @ctx-core/error@11.1.3
+  - @ctx-core/fibonacci@8.0.20
+  - @ctx-core/object@21.0.26
+  - @ctx-core/sleep@8.0.19
+
+## 11.0.84
+
+### Patch Changes
+
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/app_version@13.0.2
+  - @ctx-core/package@9.1.3
+  - @ctx-core/dom@11.0.33
+  - @ctx-core/error@11.1.2
+  - @ctx-core/fibonacci@8.0.19
+  - @ctx-core/object@21.0.25
+  - @ctx-core/sleep@8.0.18
+
 ## 11.0.83
 
 ### Patch Changes
