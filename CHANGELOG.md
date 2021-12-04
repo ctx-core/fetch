@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.87
+
+### Patch Changes
+
+- @swc/core: ^1.2.116 -> ^1.2.117
+- Updated dependencies
+  - @ctx-core/app_version@13.0.5
+  - @ctx-core/dom@11.0.36
+  - @ctx-core/error@11.1.5
+  - @ctx-core/fibonacci@8.0.22
+  - @ctx-core/object@21.0.28
+  - @ctx-core/package@9.1.6
+  - @ctx-core/sleep@8.0.21
+
 ## 11.0.86
 
 ### Patch Changes
