@@ -34,7 +34,7 @@
 		"@ctx-core/error": "workspace:^11.1.7",
 		"@ctx-core/fibonacci": "workspace:^8.0.23",
 		"@ctx-core/object": "workspace:^21.0.30",
-		"@ctx-core/package": "workspace:^9.1.7",
+		"@ctx-core/package": "workspace:^9.1.8",
 		"@ctx-core/sleep": "workspace:^8.0.22",
 		"node-fetch": "next"
 	},
