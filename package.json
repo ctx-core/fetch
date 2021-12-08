@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.91",
+	"version": "11.0.92",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -17,9 +17,17 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"module": "./dist/index.js",
 	"types": "./src/index.ts",
-	"browser": "./dist/index.browser.js",
+	"exports": {
+		".": {
+			"browser": {
+				"browser": "./dist/index.browser.js"
+			},
+			"node": {
+				"module": "./dist/index.js"
+			}
+		}
+	},
 	"scripts": {
 		"build": "npm run compile",
 		"clean": "rm -rf dist",

@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 11.0.92
+
+### Patch Changes
+
+- BREAKING CHANGE: package.json: "exports"
+
+  fix: browser integration: vite
+
 ## 11.0.91
 
 ### Patch Changes
