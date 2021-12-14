@@ -46,8 +46,8 @@
 		"node-fetch": "next"
 	},
 	"devDependencies": {
-		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.118",
+		"@swc/cli": "^0.1.55",
+		"@swc/core": "^1.2.120",
 		"typescript": "next"
 	},
 	"publishConfig": {
