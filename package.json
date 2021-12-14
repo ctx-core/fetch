@@ -36,12 +36,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^14.0.0",
+		"@ctx-core/app_version": "workspace:^14.0.1",
 		"@ctx-core/dom": "workspace:^11.0.40",
 		"@ctx-core/error": "workspace:^11.1.9",
 		"@ctx-core/fibonacci": "workspace:^8.0.25",
 		"@ctx-core/object": "workspace:^22.0.0",
-		"@ctx-core/package": "workspace:^9.1.11",
+		"@ctx-core/package": "workspace:^9.1.12",
 		"@ctx-core/sleep": "workspace:^8.0.24",
 		"node-fetch": "next"
 	},
