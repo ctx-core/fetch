@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.96
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/app_version@14.0.4
+  - @ctx-core/dom@11.0.43
+  - @ctx-core/error@11.1.12
+  - @ctx-core/fibonacci@8.0.28
+  - @ctx-core/object@22.0.3
+  - @ctx-core/package@9.1.15
+  - @ctx-core/sleep@8.0.27
+
 ## 11.0.95
 
 ### Patch Changes
