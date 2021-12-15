@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.94",
+	"version": "11.0.95",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -12,20 +12,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/fetch/issues"
+		"url": "https://github.com/ctx-core/fetch.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
 	"exports": {
 		".": {
-			"browser": {
-				"browser": "./dist/index.browser.js"
-			},
-			"node": {
-				"module": "./dist/index.js"
-			}
+			"browser": "./dist/index.browser.js",
+			"node": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -37,13 +33,13 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^14.0.2",
-		"@ctx-core/dom": "workspace:^11.0.41",
-		"@ctx-core/error": "workspace:^11.1.10",
-		"@ctx-core/fibonacci": "workspace:^8.0.26",
-		"@ctx-core/object": "workspace:^22.0.1",
-		"@ctx-core/package": "workspace:^9.1.13",
-		"@ctx-core/sleep": "workspace:^8.0.25",
+		"@ctx-core/app_version": "workspace:^14.0.3",
+		"@ctx-core/dom": "workspace:^11.0.42",
+		"@ctx-core/error": "workspace:^11.1.11",
+		"@ctx-core/fibonacci": "workspace:^8.0.27",
+		"@ctx-core/object": "workspace:^22.0.2",
+		"@ctx-core/package": "workspace:^9.1.14",
+		"@ctx-core/sleep": "workspace:^8.0.26",
 		"node-fetch": "next"
 	},
 	"devDependencies": {

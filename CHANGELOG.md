@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.95
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/app_version@14.0.3
+  - @ctx-core/dom@11.0.42
+  - @ctx-core/error@11.1.11
+  - @ctx-core/fibonacci@8.0.27
+  - @ctx-core/object@22.0.2
+  - @ctx-core/package@9.1.14
+  - @ctx-core/sleep@8.0.26
+
 ## 11.0.94
 
 ### Patch Changes
