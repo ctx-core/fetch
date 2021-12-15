@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.93",
+	"version": "11.0.94",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -26,7 +26,8 @@
 			"node": {
 				"module": "./dist/index.js"
 			}
-		}
+		},
+		"./package.json": "./package.json"
 	},
 	"scripts": {
 		"build": "npm run compile",
@@ -36,13 +37,13 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^14.0.1",
-		"@ctx-core/dom": "workspace:^11.0.40",
-		"@ctx-core/error": "workspace:^11.1.9",
-		"@ctx-core/fibonacci": "workspace:^8.0.25",
-		"@ctx-core/object": "workspace:^22.0.0",
-		"@ctx-core/package": "workspace:^9.1.12",
-		"@ctx-core/sleep": "workspace:^8.0.24",
+		"@ctx-core/app_version": "workspace:^14.0.2",
+		"@ctx-core/dom": "workspace:^11.0.41",
+		"@ctx-core/error": "workspace:^11.1.10",
+		"@ctx-core/fibonacci": "workspace:^8.0.26",
+		"@ctx-core/object": "workspace:^22.0.1",
+		"@ctx-core/package": "workspace:^9.1.13",
+		"@ctx-core/sleep": "workspace:^8.0.25",
 		"node-fetch": "next"
 	},
 	"devDependencies": {
@@ -54,5 +55,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }

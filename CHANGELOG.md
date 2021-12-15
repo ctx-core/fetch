@@ -1,5 +1,20 @@
 # @ctx-core/fetch
 
+## 11.0.94
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- fix: package.json: exports: + package.json
+- Updated dependencies
+  - @ctx-core/app_version@14.0.2
+  - @ctx-core/dom@11.0.41
+  - @ctx-core/error@11.1.10
+  - @ctx-core/fibonacci@8.0.26
+  - @ctx-core/object@22.0.1
+  - @ctx-core/package@9.1.13
+  - @ctx-core/sleep@8.0.25
+
 ## 11.0.93
 
 ### Patch Changes
