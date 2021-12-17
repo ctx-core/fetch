@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.100
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/app_version@14.0.8
+  - @ctx-core/dom@11.0.47
+  - @ctx-core/error@11.1.16
+  - @ctx-core/fibonacci@8.0.32
+  - @ctx-core/object@22.0.7
+  - @ctx-core/package@9.1.19
+  - @ctx-core/sleep@8.0.31
+
 ## 11.0.99
 
 ### Patch Changes
