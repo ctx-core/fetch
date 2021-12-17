@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.101
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/app_version@14.0.9
+  - @ctx-core/dom@11.0.48
+  - @ctx-core/error@11.1.17
+  - @ctx-core/fibonacci@8.0.33
+  - @ctx-core/object@22.0.8
+  - @ctx-core/package@9.1.20
+  - @ctx-core/sleep@8.0.32
+
 ## 11.0.100
 
 ### Patch Changes
