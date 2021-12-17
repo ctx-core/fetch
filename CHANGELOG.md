@@ -1,5 +1,19 @@
 # @ctx-core/fetch
 
+## 11.0.99
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/app_version@14.0.7
+  - @ctx-core/dom@11.0.46
+  - @ctx-core/error@11.1.15
+  - @ctx-core/fibonacci@8.0.31
+  - @ctx-core/object@22.0.6
+  - @ctx-core/package@9.1.18
+  - @ctx-core/sleep@8.0.30
+
 ## 11.0.98
 
 ### Patch Changes

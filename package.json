@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.98",
+	"version": "11.0.99",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"browser": "./dist/index.browser.js",
@@ -36,13 +36,13 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^14.0.6",
-		"@ctx-core/dom": "workspace:^11.0.45",
-		"@ctx-core/error": "workspace:^11.1.14",
-		"@ctx-core/fibonacci": "workspace:^8.0.30",
-		"@ctx-core/object": "workspace:^22.0.5",
-		"@ctx-core/package": "workspace:^9.1.17",
-		"@ctx-core/sleep": "workspace:^8.0.29",
+		"@ctx-core/app_version": "workspace:^14.0.7",
+		"@ctx-core/dom": "workspace:^11.0.46",
+		"@ctx-core/error": "workspace:^11.1.15",
+		"@ctx-core/fibonacci": "workspace:^8.0.31",
+		"@ctx-core/object": "workspace:^22.0.6",
+		"@ctx-core/package": "workspace:^9.1.18",
+		"@ctx-core/sleep": "workspace:^8.0.30",
 		"node-fetch": "next"
 	},
 	"devDependencies": {
