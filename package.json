@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.101",
+	"version": "11.0.102",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^14.0.9",
+		"@ctx-core/app_version": "workspace:^15.0.0",
 		"@ctx-core/dom": "workspace:^11.0.48",
 		"@ctx-core/error": "workspace:^11.1.17",
 		"@ctx-core/fibonacci": "workspace:^8.0.33",
@@ -47,7 +47,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.120",
+		"@swc/core": "^1.2.121",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
