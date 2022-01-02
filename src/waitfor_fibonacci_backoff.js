@@ -1,7 +1,8 @@
 import { _fibonacci_number } from '@ctx-core/fibonacci'
 import { sleep } from '@ctx-core/sleep'
-export async function waitfor_fibonacci_backoff(fn:()=>Promise<Response>, delay = 500) {
-	let response:Response
+/** @type {import('./waitfor_fibonacci_backoff.d.ts').waitfor_fibonacci_backoff} */
+export const waitfor_fibonacci_backoff = async (fn, delay = 500)=>{
+	let response
 	let delay_n = 1
 	while (true) {
 		response = await fn()
@@ -20,3 +21,4 @@ export {
 	waitfor_fibonacci_backoff as waitfor__backoff__fibonacci,
 	waitfor_fibonacci_backoff as _waitfor__ratelimit__backoff__fibonacci,
 }
+//# sourceMappingURL=waitfor_fibonacci_backoff.js.map

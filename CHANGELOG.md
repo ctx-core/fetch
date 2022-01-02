@@ -1,5 +1,24 @@
 # @ctx-core/fetch
 
+## 11.0.104
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/app_version@15.0.6
+  - @ctx-core/dom@11.1.2
+  - @ctx-core/error@11.1.18
+  - @ctx-core/fibonacci@8.0.34
+  - @ctx-core/package@9.1.21
+  - @ctx-core/sleep@8.0.33
+
+## 11.0.103
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 11.0.102
 
 ### Patch Changes
