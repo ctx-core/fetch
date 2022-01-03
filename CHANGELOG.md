@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 11.0.105
+
+### Patch Changes
+
+- fix: remove incorrect source map annotation
+
 ## 11.0.104
 
 ### Patch Changes

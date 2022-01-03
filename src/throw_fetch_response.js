@@ -8,4 +8,3 @@ export const throw_fetch_response = async (response)=>{
 	})
 }
 export { throw_fetch_response as throw__response__fetch }
-//# sourceMappingURL=throw_fetch_response.js.map

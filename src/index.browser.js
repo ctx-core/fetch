@@ -6,4 +6,3 @@ export * from './Request.browser.js'
 export * from './Response.browser.js'
 export * from './throw_fetch_response.js'
 export * from './waitfor_fibonacci_backoff.js'
-//# sourceMappingURL=index.browser.js.map
