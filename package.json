@@ -40,7 +40,7 @@
 		"@ctx-core/dom": "workspace:^11.1.2",
 		"@ctx-core/error": "workspace:^11.1.20",
 		"@ctx-core/fibonacci": "workspace:^8.0.34",
-		"@ctx-core/object": "workspace:^22.0.8",
+		"@ctx-core/object": "workspace:^22.0.9",
 		"@ctx-core/package": "workspace:^9.1.21",
 		"@ctx-core/sleep": "workspace:^8.0.33",
 		"node-fetch": "next"
