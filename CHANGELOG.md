@@ -1,5 +1,23 @@
 # @ctx-core/fetch
 
+## 11.0.108
+
+### Patch Changes
+
+- uvu: ^0.5.2 -> ^0.5.3
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.1.4
+  - @ctx-core/error@11.1.22
+  - @ctx-core/object@22.0.11
+  - @ctx-core/package@9.1.25
+  - @ctx-core/app_version@15.0.9
+  - @ctx-core/fibonacci@8.0.36
+  - @ctx-core/sleep@8.0.35
+
 ## 11.0.107
 
 ### Patch Changes
