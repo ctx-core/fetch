@@ -36,7 +36,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^15.0.12",
+		"@ctx-core/app_version": "workspace:^15.0.13",
 		"@ctx-core/dom": "workspace:^11.1.5",
 		"@ctx-core/error": "workspace:^11.1.23",
 		"@ctx-core/fibonacci": "workspace:^8.0.37",
