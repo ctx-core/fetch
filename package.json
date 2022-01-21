@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "11.0.112",
+	"version": "11.0.113",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/app_version": "workspace:^15.0.18",
+		"@ctx-core/app_version": "workspace:^15.0.19",
 		"@ctx-core/dom": "workspace:^11.1.5",
 		"@ctx-core/error": "workspace:^11.1.23",
 		"@ctx-core/fibonacci": "workspace:^8.0.37",
