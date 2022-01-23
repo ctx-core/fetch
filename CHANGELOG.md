@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.0.3
+
+### Patch Changes
+
+- use fetch instead of safe_fetch
+
 ## 12.0.2
 
 ### Patch Changes
