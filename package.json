@@ -39,7 +39,7 @@
 		"@ctx-core/app_version": "workspace:^15.0.19",
 		"@ctx-core/dom": "workspace:^11.1.5",
 		"@ctx-core/error": "workspace:^11.1.23",
-		"@ctx-core/fibonacci": "workspace:^8.0.37",
+		"@ctx-core/fibonacci": "workspace:^8.0.38",
 		"@ctx-core/object": "workspace:^22.0.13",
 		"@ctx-core/package": "workspace:^9.1.26",
 		"@ctx-core/sleep": "workspace:^8.0.36",
