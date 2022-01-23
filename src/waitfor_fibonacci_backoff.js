@@ -1,4 +1,4 @@
-import { _fibonacci_number } from '@ctx-core/fibonacci'
+import { fibonacci_number_ } from '@ctx-core/fibonacci'
 import { sleep } from '@ctx-core/sleep'
 /** @type {import('./waitfor_fibonacci_backoff.d.ts').waitfor_fibonacci_backoff} */
 export const waitfor_fibonacci_backoff = async (fn, delay = 500)=>{
@@ -7,7 +7,7 @@ export const waitfor_fibonacci_backoff = async (fn, delay = 500)=>{
 	while (true) {
 		response = await fn()
 		if (response.status === 429) {
-			const number__fibonacci = _fibonacci_number(delay_n)
+			const number__fibonacci = fibonacci_number_(delay_n)
 			const delay__ = number__fibonacci * 500
 			delay = delay + delay__
 			await sleep(delay)

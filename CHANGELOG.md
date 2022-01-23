@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.0.1
+
+### Patch Changes
+
+- fix: import: + basic unit test
+
 ## 12.0.0
 
 ### Major Changes
