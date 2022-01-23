@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.0.0
+
+### Major Changes
+
+- Handles common api (browser & types) to @ctx-core/fetch-node,@ctx-core/fetch-undici
+
 ## 11.0.113
 
 ### Patch Changes
