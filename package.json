@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/dom": "workspace:^11.1.5",
-		"@ctx-core/error": "workspace:^11.1.23",
+		"@ctx-core/error": "workspace:^11.2.0",
 		"@ctx-core/fibonacci": "workspace:^8.0.38",
 		"@ctx-core/sleep": "workspace:^8.0.36"
 	},
