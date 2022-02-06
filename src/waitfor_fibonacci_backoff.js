@@ -7,9 +7,9 @@ export const waitfor_fibonacci_backoff = async (fn, delay = 500)=>{
 	while (true) {
 		response = await fn()
 		if (response.status === 429) {
-			const number__fibonacci = fibonacci_number_(delay_n)
-			const delay__ = number__fibonacci * 500
-			delay = delay + delay__
+			const fibonacci_number = fibonacci_number_(delay_n)
+			const _delay = fibonacci_number * 500
+			delay = delay + _delay
 			await sleep(delay)
 			delay_n++
 			continue
