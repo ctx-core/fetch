@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.1.0
+
+### Minor Changes
+
+- - fetch*response_pair*,response*pair*
+
 ## 12.0.4
 
 ### Patch Changes
