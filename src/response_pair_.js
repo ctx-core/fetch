@@ -5,7 +5,7 @@
  */
 export async function response_pair_(response) {
 	return [
-		response.headers.get('Content-Type') === 'application/json'
+		~response.headers.get('Content-Type').indexOf('application/json')
 		? await response.json()
 		: await response.text(),
 		response]
