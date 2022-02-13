@@ -1,6 +1,7 @@
 export * from './_types'
 export * from './fetch'
 export * from './fetch_response_pair_'
+export * from './fetch_response_pair_2'
 export * from './fetch_method_'
 export * from './Headers'
 export * from './headers_'

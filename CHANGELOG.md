@@ -1,5 +1,12 @@
 # @ctx-core/fetch
 
+## 12.2.0
+
+### Minor Changes
+
+- - fetch_response_pair_2
+- - fetch*response_pair*: browser
+
 ## 12.1.0
 
 ### Minor Changes
