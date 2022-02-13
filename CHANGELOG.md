@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.2.1
+
+### Patch Changes
+
+- fix: fetch*response_pair*: browser
+
 ## 12.2.0
 
 ### Minor Changes

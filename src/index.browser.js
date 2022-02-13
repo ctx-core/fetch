@@ -1,5 +1,6 @@
 export * from './fetch.browser.js'
 export * from './fetch_method_.js'
+export * from './fetch_response_pair_.browser.js'
 export * from './fetch_response_pair_2.js'
 export * from './Headers.browser.js'
 export * from './headers_.js'
