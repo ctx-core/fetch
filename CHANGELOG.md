@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.2.2
+
+### Patch Changes
+
+- fix: response*pair*: handle Content-Type containing application/json
+
 ## 12.2.1
 
 ### Patch Changes
