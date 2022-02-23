@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.2.3
+
+### Patch Changes
+
+- headers\_: browser-only: server implementation done by dependencies
+
 ## 12.2.2
 
 ### Patch Changes
