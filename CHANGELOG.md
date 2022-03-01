@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.2.5
+
+### Patch Changes
+
+- fix: response*pair*: application/json: text/JSON.parse
+
 ## 12.2.4
 
 ### Patch Changes
