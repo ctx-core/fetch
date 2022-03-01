@@ -5,7 +5,7 @@
  */
 export async function response_pair_(response) {
 	const text = await response.text()
-	if (~response.headers.get('Content-Type')?.indexOf?.('application/json')) {
+	if (response.headers.get('Content-Type')?.indexOf?.('application/json')) {
 		return [text, response]
 	}
 	try {
