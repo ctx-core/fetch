@@ -45,7 +45,7 @@
 		"c8": "^7.11.0",
 		"check-dts": "^0.6.6",
 		"isomorphic-streams": "^1.0.3",
-		"node-fetch": "^3.2.0",
+		"node-fetch": "^3.2.1",
 		"tsm": "^2.2.1",
 		"typescript": "next",
 		"uvu": "^0.5.3"
