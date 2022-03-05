@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.2.6
+
+### Patch Changes
+
+- fix: response*pair*: no Content-Type header: text response
+
 ## 12.2.5
 
 ### Patch Changes
