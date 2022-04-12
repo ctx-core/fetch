@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "12.2.7",
+	"version": "12.2.8",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -22,6 +22,7 @@
 	"exports": {
 		".": {
 			"browser": "./src/index.browser.js",
+			"default": "./src/index.js",
 			"node": "./src/index.js"
 		},
 		"./package.json": "./package.json"
@@ -36,10 +37,10 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.1.9",
-		"@ctx-core/error": "^11.4.1",
-		"@ctx-core/fibonacci": "^8.0.38",
-		"@ctx-core/sleep": "^8.0.36"
+		"@ctx-core/dom": "workspace:^11.1.10",
+		"@ctx-core/error": "workspace:^11.4.2",
+		"@ctx-core/fibonacci": "workspace:^8.0.39",
+		"@ctx-core/sleep": "workspace:^8.0.37"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",

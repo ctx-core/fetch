@@ -1,5 +1,17 @@
 # @ctx-core/fetch
 
+## 12.2.8
+
+### Patch Changes
+
+- package.json: exports: update
+- fix: package.json: exports: + default
+- Updated dependencies
+  - @ctx-core/dom@11.1.10
+  - @ctx-core/error@11.4.2
+  - @ctx-core/fibonacci@8.0.39
+  - @ctx-core/sleep@8.0.37
+
 ## 12.2.7
 
 ### Patch Changes
