@@ -1,5 +1,14 @@
 # @ctx-core/fetch
 
+## 12.2.11
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/dom@11.1.14
+  - @ctx-core/error@11.4.5
+
 ## 12.2.10
 
 ### Patch Changes
