@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.2.15
+
+### Patch Changes
+
+- update dependencies
+
 ## 12.2.14
 
 ### Patch Changes
