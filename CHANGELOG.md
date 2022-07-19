@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.3.0
+
+### Minor Changes
+
+- extract directories
+
 ## 12.2.20
 
 ### Patch Changes

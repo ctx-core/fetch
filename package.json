@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "12.2.20",
+	"version": "12.3.0",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"exec": "$@",
 		"prepublishOnly": "npm run clean && npm run build && npm run test",
 		"test": "pnpm test-unit && check-dts",
-		"test-unit": "tsm node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
+		"test-unit": "tsx node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
@@ -47,7 +47,7 @@
 		"check-dts": "^0.6.7",
 		"isomorphic-streams": "^1.0.3",
 		"node-fetch": "^3.2.9",
-		"tsm": "^2.2.1",
+		"tsx": "^3.8.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},

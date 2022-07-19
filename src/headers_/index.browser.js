@@ -1,4 +1,4 @@
-/** @type {import('./headers_').headers_} */
+/** @type {import('.').headers_} */
 export const headers_ = (init)=>{
 	return new window.Headers(init)
 }
