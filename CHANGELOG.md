@@ -1,5 +1,15 @@
 # @ctx-core/fetch
 
+## 12.3.2
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+- Updated dependencies
+  - @ctx-core/dom@11.1.27
+  - @ctx-core/error@11.5.1
+  - @ctx-core/fibonacci@8.0.40
+
 ## 12.3.1
 
 ### Patch Changes
