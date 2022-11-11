@@ -8,7 +8,7 @@ test('throw_fetch_response', async ()=>{
 	const buffer = Buffer.from(error_msg)
 	const response = new _Response(buffer, { status: 501 })
 	try {
-		await throw_fetch_response(response as unknown as Response)
+		await throw_fetch_response(response)
 		unreachable('should have thrown')
 	} catch (err) {
 		equal(err, {

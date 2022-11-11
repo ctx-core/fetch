@@ -1,2 +1,1 @@
-/// <reference lib="dom" />
-export type _Response = Response
+export type _Response = globalThis.Response

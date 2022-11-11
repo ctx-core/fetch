@@ -1,2 +1,1 @@
-/// <reference lib="dom" />
-export declare type _Request = Request
+export declare type _Request = globalThis.Request

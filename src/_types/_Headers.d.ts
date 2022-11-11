@@ -1,2 +1,1 @@
-/// <reference lib="dom" />
-export declare type _Headers = Headers
+export declare type _Headers = globalThis.Headers
