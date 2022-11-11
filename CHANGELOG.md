@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.3.4
+
+### Patch Changes
+
+- response*pair*: fix: globalThis reference
+
 ## 12.3.3
 
 ### Patch Changes
