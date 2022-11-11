@@ -1,4 +1,4 @@
-import { Headers, Response as _Response } from 'undici'
+import { Headers, Response as _Response } from 'node-fetch'
 import { test } from 'uvu'
 import { equal } from 'uvu/assert'
 import { response_pair_ } from '../index.js'
