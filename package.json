@@ -48,7 +48,7 @@
 		"check-dts": "^0.6.7",
 		"isomorphic-streams": "^1.0.3",
 		"node-fetch": "^3.3.0",
-		"tsx": "^3.12.1",
+		"tsx": "^3.12.2",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
