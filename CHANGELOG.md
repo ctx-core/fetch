@@ -1,5 +1,16 @@
 # @ctx-core/fetch
 
+## 12.3.25
+
+### Patch Changes
+
+- @ctx-core/sleep: ^8.0.37 -> ^8.0.38
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.2.20
+  - @ctx-core/sleep@8.0.39
+
 ## 12.3.24
 
 ### Patch Changes
