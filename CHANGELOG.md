@@ -1,5 +1,16 @@
 # @ctx-core/fetch
 
+## 12.3.30
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/dom@11.2.25
+  - @ctx-core/error@11.5.14
+  - @ctx-core/fibonacci@8.0.41
+  - @ctx-core/sleep@8.0.40
+
 ## 12.3.29
 
 ### Patch Changes
