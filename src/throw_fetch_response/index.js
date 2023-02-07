@@ -1,7 +1,7 @@
-import { throw_error } from '@ctx-core/error'
+import { error__throw } from '@ctx-core/error'
 export async function throw_fetch_response(response) {
 	const error_message = await response.text()
-	throw_error({
+	error__throw({
 		http_status: response.status,
 		error_message
 	})
