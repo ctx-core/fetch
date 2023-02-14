@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.3.45
+
+### Patch Changes
+
+- @ctx-core/fibonacci: ^8.0.41 -> ^8.1.0
+
 ## 12.3.44
 
 ### Patch Changes
