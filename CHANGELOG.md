@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.3.46
+
+### Patch Changes
+
+- @ctx-core/sleep: ^8.0.41 -> ^8.1.0
+
 ## 12.3.45
 
 ### Patch Changes
