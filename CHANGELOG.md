@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.3.52
+
+### Patch Changes
+
+- @ctx-core/dom: ^11.4.2 -> ^11.4.3
+
 ## 12.3.51
 
 ### Patch Changes
