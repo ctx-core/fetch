@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.4.1
+
+### Patch Changes
+
+- @ctx-core/error: ^11.6.10 -> ^11.6.11
+
 ## 12.4.0
 
 ### Minor Changes
