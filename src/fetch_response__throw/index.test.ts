@@ -1,14 +1,14 @@
 import { equal, unreachable } from 'uvu/assert'
 import { test } from 'uvu'
 import { Response as _Response } from 'node-fetch'
-import { throw_fetch_response } from '../index.js'
+import { fetch_response__throw } from '../index.js'
 import { Buffer } from 'buffer'
-test('throw_fetch_response', async ()=>{
+test('fetch_response__throw', async ()=>{
 	const error_msg = 'the error message'
 	const buffer = Buffer.from(error_msg)
 	const response = new _Response(buffer, { status: 501 })
 	try {
-		await throw_fetch_response(response)
+		await fetch_response__throw(response)
 		unreachable('should have thrown')
 	} catch (err) {
 		equal(err, {

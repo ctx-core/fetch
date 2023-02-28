@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.4.0
+
+### Minor Changes
+
+- - fetch_response\_\_throw: aliased by throw_fetch_response
+
 ## 12.3.70
 
 ### Patch Changes
