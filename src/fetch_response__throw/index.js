@@ -1,4 +1,8 @@
 import { error__throw } from '@ctx-core/error'
+/**
+ * @param {Response}response
+ * @returns {Promise<void>}
+ */
 export async function fetch_response__throw(response) {
 	const error_message = await response.text()
 	error__throw({

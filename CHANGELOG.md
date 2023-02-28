@@ -1,5 +1,17 @@
 # @ctx-core/fetch
 
+## 12.5.0
+
+### Minor Changes
+
+- - fetch_method**\_params_T: aliased by fetch_method_params**T
+
+### Patch Changes
+
+- - jsdoc
+- Updated dependencies
+  - @ctx-core/error@11.6.12
+
 ## 12.4.1
 
 ### Patch Changes

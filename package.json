@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "12.4.1",
+	"version": "12.5.0",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -38,7 +38,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/dom": "^11.4.21",
-		"@ctx-core/error": "^11.6.11",
+		"@ctx-core/error": "^11.6.12",
 		"@ctx-core/fibonacci": "^8.1.0",
 		"@ctx-core/sleep": "^8.1.0"
 	},
