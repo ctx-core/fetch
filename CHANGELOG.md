@@ -1,5 +1,15 @@
 # @ctx-core/fetch
 
+## 12.5.3
+
+### Patch Changes
+
+- @types/node: ^18.14.5 -> ^18.14.6
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.4.24
+  - @ctx-core/error@11.6.14
+
 ## 12.5.2
 
 ### Patch Changes
