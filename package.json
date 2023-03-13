@@ -43,12 +43,12 @@
 		"@ctx-core/sleep": "^8.1.0"
 	},
 	"devDependencies": {
-		"@types/node": "^18.15.0",
+		"@types/node": "^18.15.2",
 		"c8": "^7.13.0",
-		"check-dts": "^0.7.0",
+		"check-dts": "^0.7.1",
 		"isomorphic-streams": "^1.0.3",
 		"node-fetch": "^3.3.1",
-		"tsx": "^3.12.4",
+		"tsx": "^3.12.5",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
