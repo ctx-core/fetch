@@ -43,7 +43,7 @@
 		"@ctx-core/sleep": "^8.1.0"
 	},
 	"devDependencies": {
-		"@types/node": "^18.15.2",
+		"@types/node": "^18.15.3",
 		"c8": "^7.13.0",
 		"check-dts": "^0.7.1",
 		"isomorphic-streams": "^1.0.3",
