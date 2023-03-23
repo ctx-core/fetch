@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "12.5.36",
+	"version": "12.5.37",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -37,8 +37,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^14.0.5",
-		"@ctx-core/error": "^11.6.22",
+		"@ctx-core/dom": "^14.0.6",
+		"@ctx-core/error": "^11.6.23",
 		"@ctx-core/fibonacci": "^8.1.0",
 		"@ctx-core/sleep": "^8.1.0"
 	},
