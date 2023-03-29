@@ -13,7 +13,7 @@ test('fetch_response__throw', async ()=>{
 		unreachable('should have thrown')
 	} catch (_err) {
 		const err = _err as HttpError
-		equal(err.http_status, 501)
+		equal(err.http__status, 501)
 		equal(err.error_message, error_msg)
 	}
 })
