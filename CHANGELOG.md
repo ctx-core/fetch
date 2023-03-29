@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.5.44
+
+### Patch Changes
+
+- fix tests
+
 ## 12.5.43
 
 ### Patch Changes

@@ -4,10 +4,9 @@ import { error_o__throw } from '@ctx-core/error'
  * @returns {Promise<void>}
  */
 export async function fetch_response__throw(response) {
-	const error_message = await response.text()
-	error_o__throw({
+	const message = await response.text()
+	error_o__throw(message, {
 		http__status: response.status,
-		error_message
 	})
 }
 export {

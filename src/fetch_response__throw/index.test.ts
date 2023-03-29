@@ -14,7 +14,7 @@ test('fetch_response__throw', async ()=>{
 	} catch (_err) {
 		const err = _err as HttpError
 		equal(err.http__status, 501)
-		equal(err.error_message, error_msg)
+		equal(err.message, error_msg)
 	}
 })
 test.run()
