@@ -1,10 +1,18 @@
 # @ctx-core/fetch
 
+## 12.8.2
+
+### Patch Changes
+
+- @ctx-core/dom: ^14.1.6 -> ^14.1.7
+- Updated dependencies
+  - @ctx-core/error@12.3.5
+
 ## 12.8.1
 
 ### Patch Changes
 
-- response_o_: js: fix: return type: response_o_T
+- response*o*: js: fix: return type: response_o_T
 
 ## 12.8.0
 
