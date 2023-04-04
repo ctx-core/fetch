@@ -1,11 +1,11 @@
-/** @typedef {import('@ctx-core/types').json_T}json_T */
+/** @typedef {import('./index.d.ts').response_o_T}response_o_T */
 /**
  * @param {Response}response
- * @returns {json_T}
+ * @returns {response_o_T}
  * @private
  */
 export function response_o_(response) {
-	return /** @type {json_T} */JSON.stringify({
+	return /** @type {response_o_T} */{
 		headers: response.headers,
 		ok: response.ok,
 		redirected: response.redirected,
@@ -13,5 +13,5 @@ export function response_o_(response) {
 		statusText: response.statusText,
 		type: response.type,
 		url: response.url,
-	})
+	}
 }

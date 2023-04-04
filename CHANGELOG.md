@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.8.1
+
+### Patch Changes
+
+- response_o_: js: fix: return type: response_o_T
+
 ## 12.8.0
 
 ### Minor Changes
