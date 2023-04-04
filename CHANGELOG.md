@@ -1,5 +1,16 @@
 # @ctx-core/fetch
 
+## 12.6.0
+
+### Minor Changes
+
+- - response\__json_
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/types@1.2.0
+
 ## 12.5.51
 
 ### Patch Changes
