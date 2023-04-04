@@ -1,5 +1,5 @@
-export declare function response__o_(response:Response):response__o_T
-export interface response__o_T {
+export declare function response_o_(response:Response):response_o_T
+export interface response_o_T {
 	headers:Headers
 	ok:boolean
 	redirected:boolean

@@ -4,7 +4,7 @@
  * @returns {json_T}
  * @private
  */
-export function response__o_(response) {
+export function response_o_(response) {
 	return /** @type {json_T} */JSON.stringify({
 		headers: response.headers,
 		ok: response.ok,
