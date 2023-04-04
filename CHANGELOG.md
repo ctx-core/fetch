@@ -1,5 +1,12 @@
 # @ctx-core/fetch
 
+## 12.7.0
+
+### Minor Changes
+
+- - response\_\_o_T
+- response**json\_=>response**o\_
+
 ## 12.6.0
 
 ### Minor Changes

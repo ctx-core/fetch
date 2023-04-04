@@ -1,6 +1,6 @@
 export * from './fetch_method_/index.js'
 export * from './fetch_response__throw/index.js'
 export * from './fetch_response_pair_2/index.js'
-export * from './response__json_/index.js'
+export * from './response__o_/index.js'
 export * from './response_pair_/index.js'
 export * from './waitfor_fibonacci_backoff/index.js'
