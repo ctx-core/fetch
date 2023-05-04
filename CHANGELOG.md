@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 12.9.0
+
+### Minor Changes
+
+- - fetch\__template_pair_
+- - fetch\_\_template_pair_T
+- - fetch_response_pair\_\_: aliased by fetch_response_pair_2
+
 ## 12.8.31
 
 ### Patch Changes
@@ -1291,7 +1299,7 @@
 
 ### Minor Changes
 
-- - fetch_response_pair_2
+- - fetch_response_pair\_\_
 - - fetch*response_pair*: browser
 
 ## 12.1.0
