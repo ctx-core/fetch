@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.9.1
+
+### Patch Changes
+
+- fetch\__template_pair_,fetch\_\_template_pair_T: fix: type definitions
+
 ## 12.9.0
 
 ### Minor Changes
