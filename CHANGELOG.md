@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 12.10.1
+
+### Patch Changes
+
+- response*pair*,fetch\__template_pair_: type variable name:
+
+      unhydrated_val=>dehydrated_val
+
 ## 12.10.0
 
 ### Minor Changes

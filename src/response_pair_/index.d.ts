@@ -4,7 +4,7 @@ export declare function response_pair_<
 	H = U
 >(
 	response:globalThis.Response|Response,
-	hydrate?:(unhydrated_val:U)=>H
+	hydrate?:(dehydrated_val:U)=>H
 ):Promise<response_pair_T<H>>
 export type response_pair_T<T> = [
 	T,
