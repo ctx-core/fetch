@@ -10,7 +10,7 @@ export declare function fetch__template_pair_<
 			: F extends any[]
 				? (...arg_a:F)=>Promise<Response>
 				: never,
-	hydrate:(dehydrated_val:U)=>H
+	hydrate?:(dehydrated_val:U)=>H
 ):fetch__template_pair_T<F, H>
 export type fetch__template_pair_T<
 	F extends ((...arg_a:any[])=>Promise<Response>)|any[],

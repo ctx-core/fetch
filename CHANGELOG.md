@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.10.2
+
+### Patch Changes
+
+- response*pair*: argument type: fix: hydrate?:(dehydrated_val:U)=>H
+
 ## 12.10.1
 
 ### Patch Changes
