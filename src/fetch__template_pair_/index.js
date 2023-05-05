@@ -6,7 +6,7 @@ import { response_pair_ } from '../response_pair_/index.js'
  * @returns {fetch__template_pair_T}
  * @private
  */
-export async function fetch__template_pair_(
+export function fetch__template_pair_(
 	fetch_fn,
 	hydrate = val=>val
 ) {

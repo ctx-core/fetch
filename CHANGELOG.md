@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 12.10.3
+
+### Patch Changes
+
+- fetch\__template_pair_: fix: synchronous function
+
 ## 12.10.2
 
 ### Patch Changes
