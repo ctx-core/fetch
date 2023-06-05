@@ -1,9 +1,8 @@
-import { afterEach } from 'node:test'
 import { restore, stub } from 'sinon'
 import { test } from 'uvu'
 import { equal } from 'uvu/assert'
 import { fetch__template_pair_ } from '../index.js'
-afterEach(()=>{
+test.after.each(()=>{
 	restore()
 })
 test('fetch__template_pair_', async()=>{
