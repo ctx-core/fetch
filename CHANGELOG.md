@@ -1,5 +1,17 @@
 # @ctx-core/fetch
 
+## 12.11.0
+
+### Minor Changes
+
+- - fetch\_\_template_pair_1_T<
+    F extends ((...arg_a:any[])=>Promise<Response>)|any[],
+    T = unknown,
+    >
+- - fetch\_\_template_pair_0_T<
+    F extends ((...arg_a:any[])=>Promise<Response>)|any[]
+    >
+
 ## 12.10.19
 
 ### Patch Changes
