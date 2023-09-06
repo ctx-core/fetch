@@ -1,5 +1,17 @@
 # @ctx-core/fetch
 
+## 12.11.21
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/dom@14.1.65
+  - @ctx-core/error@12.3.42
+  - @ctx-core/fibonacci@8.1.20
+  - @ctx-core/sleep@8.1.20
+  - @ctx-core/types@1.2.20
+
 ## 12.11.20
 
 ### Patch Changes
