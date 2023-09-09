@@ -1,4 +1,4 @@
-export declare function response_o_(response:Response):response_o_T
+export declare function response_o__new(response:Response):response_o_T
 export interface response_o_T {
 	headers:Headers
 	ok:boolean
@@ -8,3 +8,6 @@ export interface response_o_T {
 	type:ResponseType
 	url:string
 } 
+export {
+	response_o__new as response_o_,
+}

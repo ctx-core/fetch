@@ -1,5 +1,5 @@
-import type { response_pair_T } from '../response_pair_'
-export declare function fetch__template_pair_<
+import type { response_pair_T } from '../response_pair'
+export declare function fetch__template_pair__new<
 	F extends ((...arg_a:any[])=>Promise<Response>)|any[],
 	U = unknown,
 	H = U,
@@ -38,3 +38,6 @@ export type fetch__template_pair_1_T<
 			? F
 			: never
 )=>Promise<response_pair_T<T>>
+export {
+	fetch__template_pair__new as fetch__template_pair_,
+}

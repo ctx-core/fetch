@@ -1,17 +1,17 @@
 import { restore, stub } from 'sinon'
 import { test } from 'uvu'
 import { equal } from 'uvu/assert'
-import { fetch__template_pair_ } from '../index.js'
+import { fetch__template_pair__new } from '../index.js'
 test.after.each(()=>{
 	restore()
 })
-test('fetch__template_pair_', async()=>{
+test('fetch__template_pair__new', async()=>{
 	const _stub = stub(globalThis, 'fetch')
 		.withArgs('https://test.site/api?id=123')
 	const [
 		test__fetch,
 		test__fetch2,
-	] = fetch__template_pair_<
+	] = fetch__template_pair__new<
 		[id:number],
 		{ foo:string },
 		{ foo:string[] }

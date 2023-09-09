@@ -1,4 +1,4 @@
-import { response_pair_ } from '../response_pair_/index.js'
+import { response_pair__new } from '../response_pair/index.js'
 /** @type {import('./index.d.ts').fetch__template_pair_T}fetch__template_pair_T */
 /**
  * @param {(...arg_a:any[])=>Promise<Response>}fetch_fn
@@ -6,7 +6,7 @@ import { response_pair_ } from '../response_pair_/index.js'
  * @returns {fetch__template_pair_T}
  * @private
  */
-export function fetch__template_pair_(
+export function fetch__template_pair__new(
 	fetch_fn,
 	hydrate = val=>val
 ) {
@@ -15,6 +15,9 @@ export function fetch__template_pair_(
 		(...arg_a)=>
 			fetch_fn(...arg_a)
 				.then(response=>
-					response_pair_(response, hydrate))
+					response_pair__new(response, hydrate))
 	]
+}
+export {
+	fetch__template_pair__new as fetch__template_pair_,
 }

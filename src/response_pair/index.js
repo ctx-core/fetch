@@ -4,7 +4,7 @@
  * @param {(val:unknown)=>unknown}[hydrate]
  * @return {Promise<[Body, Response]>}
  */
-export async function response_pair_(
+export async function response_pair__new(
 	response,
 	hydrate = val=>val
 ) {
@@ -16,9 +16,12 @@ export async function response_pair_(
 	try {
 		return [hydrate(JSON.parse(text)), response]
 	} catch (err) {
-		console.error('response_pair_|application/json|JSON.parse error:')
+		console.error('response_pair__new|application/json|JSON.parse error:')
 		console.error(response)
 		console.error(text)
 		throw err
 	}
+}
+export {
+	response_pair__new as response_pair_,
 }

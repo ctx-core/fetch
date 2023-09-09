@@ -4,7 +4,7 @@
  * @returns {response_o_T}
  * @private
  */
-export function response_o_(response) {
+export function response_o__new(response) {
 	return /** @type {response_o_T} */{
 		headers: response.headers,
 		ok: response.ok,
@@ -14,4 +14,7 @@ export function response_o_(response) {
 		type: response.type,
 		url: response.url,
 	}
+}
+export {
+	response_o__new as response_o_,
 }
