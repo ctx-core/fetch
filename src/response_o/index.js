@@ -15,6 +15,3 @@ export function response_o__new(response) {
 		url: response.url,
 	}
 }
-export {
-	response_o__new as response_o_,
-}

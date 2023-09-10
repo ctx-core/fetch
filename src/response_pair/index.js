@@ -22,6 +22,3 @@ export async function response_pair__new(
 		throw err
 	}
 }
-export {
-	response_pair__new as response_pair_,
-}

@@ -7,7 +7,4 @@ export interface response_o_T {
 	statusText:string
 	type:ResponseType
 	url:string
-} 
-export {
-	response_o__new as response_o_,
 }

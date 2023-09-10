@@ -18,6 +18,3 @@ export function fetch__template_pair__new(
 					response_pair__new(response, hydrate))
 	]
 }
-export {
-	fetch__template_pair__new as fetch__template_pair_,
-}

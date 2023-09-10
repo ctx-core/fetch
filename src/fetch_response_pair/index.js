@@ -9,7 +9,3 @@ export function fetch_response_pair__new2(fetch) {
 		return await response_pair__new(response)
 	}
 }
-export {
-	fetch_response_pair__new2 as fetch_response_pair__,
-	fetch_response_pair__new2 as fetch_response_pair_2,
-}

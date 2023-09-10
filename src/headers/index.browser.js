@@ -8,7 +8,3 @@ export const { Headers } = window
 export function headers__new(init) {
 	return new window.Headers(init)
 }
-export {
-	headers__new as headers_,
-	headers__new as _headers,
-}

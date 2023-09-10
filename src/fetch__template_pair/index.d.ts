@@ -38,6 +38,3 @@ export type fetch__template_pair_1_T<
 			? F
 			: never
 )=>Promise<response_pair_T<T>>
-export {
-	fetch__template_pair__new as fetch__template_pair_,
-}
