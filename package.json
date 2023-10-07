@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/fetch",
-  "version": "13.0.9",
+  "version": "13.0.10",
   "description": "ctx-core fetch",
   "keywords": [
     "ctx-core",
@@ -44,8 +44,8 @@
     "@ctx-core/types": "^1.2.20"
   },
   "devDependencies": {
-    "@types/node": "^20.8.2",
-    "@types/sinon": "^10.0.18",
+    "@types/node": "^20.8.3",
+    "@types/sinon": "^10.0.19",
     "c8": "^8.0.1",
     "check-dts": "^0.7.2",
     "isomorphic-streams": "^1.0.3",
