@@ -1,5 +1,20 @@
 # @ctx-core/fetch
 
+## 13.0.18
+
+### Patch Changes
+
+- @types/sinon: ^10.0.19 -> ^10.0.20
+- tsx: ^3.13.0 -> ^3.14.0
+- @types/node: ^20.8.6 -> ^20.8.7
+- sinon: ^16.1.0 -> ^16.1.3
+- Updated dependencies
+  - @ctx-core/dom@14.2.4
+  - @ctx-core/error@12.3.45
+  - @ctx-core/fibonacci@8.1.21
+  - @ctx-core/sleep@8.1.21
+  - @ctx-core/types@1.2.21
+
 ## 13.0.17
 
 ### Patch Changes
