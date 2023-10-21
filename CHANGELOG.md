@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 13.0.19
+
+### Patch Changes
+
+- sinon: ^16.1.3 -> ^17.0.0
+
 ## 13.0.18
 
 ### Patch Changes
