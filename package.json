@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/fetch",
-  "version": "13.0.22",
+  "version": "13.0.23",
   "description": "ctx-core fetch",
   "keywords": [
     "ctx-core",
@@ -37,8 +37,8 @@
     "test-unit-coverage": "c8 pnpm test-unit"
   },
   "dependencies": {
-    "@ctx-core/dom": "^14.3.0",
-    "@ctx-core/error": "^12.3.45",
+    "@ctx-core/dom": "^14.3.1",
+    "@ctx-core/error": "^12.3.46",
     "@ctx-core/fibonacci": "^8.1.21",
     "@ctx-core/sleep": "^8.1.21",
     "@ctx-core/types": "^1.2.21"
@@ -50,7 +50,7 @@
     "check-dts": "^0.7.2",
     "isomorphic-streams": "^1.0.3",
     "node-fetch": "^3.3.2",
-    "sinon": "^17.0.0",
+    "sinon": "^17.0.1",
     "tsx": "^3.14.0",
     "typescript": "next",
     "uvu": "^0.5.6"

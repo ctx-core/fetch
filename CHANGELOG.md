@@ -1,5 +1,14 @@
 # @ctx-core/fetch
 
+## 13.0.23
+
+### Patch Changes
+
+- sinon: ^17.0.0 -> ^17.0.1
+- Updated dependencies
+  - @ctx-core/dom@14.3.1
+  - @ctx-core/error@12.3.46
+
 ## 13.0.22
 
 ### Patch Changes
