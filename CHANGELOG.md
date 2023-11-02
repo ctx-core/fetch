@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 13.0.26
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@15.0.0
+
 ## 13.0.25
 
 ### Patch Changes
