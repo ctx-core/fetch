@@ -1,5 +1,26 @@
 # @ctx-core/fetch
 
+## 13.1.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+- ∋ ctx-core/fetch
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@2.1.0
+
 ## 13.0.34
 
 ### Patch Changes
