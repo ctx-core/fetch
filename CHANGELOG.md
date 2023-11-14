@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 13.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 13.1.2
 
 ### Patch Changes
