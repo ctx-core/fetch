@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/fetch",
-  "version": "13.1.25",
+  "version": "13.1.26",
   "description": "ctx-core fetch",
   "keywords": [
     "ctx-core",
@@ -42,14 +42,14 @@
     "ctx-core": "^4.4.0"
   },
   "devDependencies": {
-    "@types/node": "^20.9.4",
+    "@types/node": "^20.10.0",
     "@types/sinon": "^17.0.2",
     "c8": "^8.0.1",
     "check-dts": "^0.7.2",
     "isomorphic-streams": "^1.0.3",
     "node-fetch": "^3.3.2",
     "sinon": "^17.0.1",
-    "tsx": "^4.3.0",
+    "tsx": "^4.4.0",
     "typescript": "next",
     "uvu": "^0.5.6"
   },
