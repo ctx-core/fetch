@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 13.1.72
+
+### Patch Changes
+
+- ctx-core: ^5.6.1 -> ^5.7.0
+
 ## 13.1.71
 
 ### Patch Changes
