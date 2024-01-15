@@ -1,5 +1,11 @@
 # @ctx-core/fetch
 
+## 13.1.91
+
+### Patch Changes
+
+- @types/node: ^20.11.0 -> ^20.11.1
+
 ## 13.1.90
 
 ### Patch Changes
