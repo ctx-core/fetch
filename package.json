@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fetch",
-	"version": "13.1.173",
+	"version": "13.1.174",
 	"description": "ctx-core fetch",
 	"keywords": [
 		"ctx-core",
@@ -44,10 +44,10 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^6.6.1"
+		"ctx-core": "^6.6.2"
 	},
 	"devDependencies": {
-		"@types/node": "^20.11.29",
+		"@types/node": "^20.11.30",
 		"@types/sinon": "^17.0.3",
 		"c8": "^9.1.0",
 		"check-dts": "^0.7.2",
