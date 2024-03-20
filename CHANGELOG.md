@@ -1,5 +1,13 @@
 # @ctx-core/fetch
 
+## 13.1.173
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 13.1.172
 
 ### Patch Changes
