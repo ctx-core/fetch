@@ -1,5 +1,12 @@
 # @ctx-core/fetch
 
+## 13.1.182
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@7.0.0
+
 ## 13.1.181
 
 ### Patch Changes
