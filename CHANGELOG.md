@@ -1,5 +1,14 @@
 # @ctx-core/fetch
 
+## 13.1.201
+
+### Patch Changes
+
+- sinon: ^17.0.2 -> ^18.0.0
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@7.2.10
+
 ## 13.1.200
 
 ### Patch Changes
