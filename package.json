@@ -54,7 +54,7 @@
 		"isomorphic-streams": "^1.0.3",
 		"node-fetch": "^3.3.2",
 		"sinon": "^18.0.0",
-		"tsx": "^4.15.9",
+		"tsx": "^4.16.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
